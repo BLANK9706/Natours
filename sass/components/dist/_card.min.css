@@ -1,0 +1,2 @@
+.card{perspective:150rem;-moz-perspective:150rem;position:relative;height:50rem}.card__side{background-color:#000;color:#fff;font-size:2rem;height:50rem;transition:all .7s}.card:hover .card__side{transform:rotateY(180deg)}
+/*# sourceMappingURL=_card.min.css.map */

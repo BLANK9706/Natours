@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_base.scss"],"sourcesContent":["*,\n*::after,\n*::before {\n\n    margin: 0;\n\tpadding: 0;\n\tbox-sizing: inherit;\n\n}\n\nhtml {\n    font-size: 62.5%;\n}\n\nbody {\n    box-sizing: border-box;\n}\n"],"file":"_base.css"}

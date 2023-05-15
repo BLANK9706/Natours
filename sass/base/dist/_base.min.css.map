@@ -1,0 +1,1 @@
+{"version":3,"sources":["_base.scss"],"names":[],"mappings":"AAAA,EACA,QACA,SACE,OAAQ,EACR,QAAS,EACT,WAAY,QAGd,KACE,UAAW,MAGb,KACE,WAAY","file":"_base.min.css","sourcesContent":["*,\n*::after,\n*::before {\n\n    margin: 0;\n\tpadding: 0;\n\tbox-sizing: inherit;\n\n}\n\nhtml {\n    font-size: 62.5%;\n}\n\nbody {\n    box-sizing: border-box;\n}\n"]}
